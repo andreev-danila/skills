@@ -1,5 +1,14 @@
 # skills
 
+## installation
+
+- For fast setup, use the quick install command below.
+- For manual setup, copy the desired skill folder into your Codex/Claude skills directory.
+
+## quick install
+
+- `npx add-skill https://github.com/andreev-danila/skills`
+
 ## reanimated-skia-performance
 
 - `skills/reanimated-skia-performance/` contains the Reanimated + Skia performance skill.
